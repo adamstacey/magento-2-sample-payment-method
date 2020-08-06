@@ -2,7 +2,7 @@
     "name": "adamstacey/module-sample-payment-gateway",
     "description": "Demonstrates integration with payment gateway",
     "require": {
-        "php": "~5.5.*|~5.6.*|~7.*",
+        "php": "~5.5.0|~5.6.0|~7.0.0",
         "magento/module-sales": "*",
         "magento/module-quote": "*",
         "magento/module-checkout": "*",
